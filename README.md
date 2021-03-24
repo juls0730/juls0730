@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juls0730
 - 👀 I mainly code in Vue, Javascript, Ruby, Crystal, Java, and Python
 - 📘 I’m currently learning C, C++, and Lua
-- 💞️ I’m not currently looking to collaborate
+- 💞️ If you would like to collaborate on something hit me up
 - 📧 How to reach me: juls07@cyansplash.net
