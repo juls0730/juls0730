@@ -45,8 +45,8 @@ Want to learn more? [Check out my website](https://juls07.dev)
 
 <br />
 
-<a href="https://github.com/juls0730/create-dev7-app">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=juls0730&repo=create-dev7-app&title_color=fff&text_color=fafafa&icon_color=4AB197&bg_color=191819&hide_border=true" />
+<a href="https://github.com/juls0730/toto-os">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=juls0730&repo=toto-os&title_color=fff&text_color=fafafa&icon_color=4AB197&bg_color=191819&hide_border=true" />
 </a>
 
 
