@@ -4,8 +4,7 @@
 [![Email](https://img.shields.io/badge/juls07@juls07.dev-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:juls07@juls07.dev)](mailto:juls07@juls07.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/jule4055_)
 
-Hi there!
-I'm juls07, a fullstack web developer with 4+ years of expeience. I love creating websites that are both aesthetically pleasing and functional, utilizing Vue.js, my drug of choice. I'm always looking for new challenges to improve my skills and advance in the web development field.
+Hey, I'm juls07, a self-taught software developer with over 5 years of experience. I'm 15 and have been doing web development a large part of that, but recently, I've fallen in love with low-level development using C and Rust. I'm always eager to learn and improve my skills.
 
 Want to learn more? [Check out my website](https://juls07.dev)
 
@@ -65,16 +64,17 @@ Want to learn more? [Check out my website](https://juls07.dev)
 </a>
 
 # My Skills
+![](https://img.shields.io/badge/Rust-informational?style=flat&logo=Rust&color=27272A)
+![](https://img.shields.io/badge/Rust-informational?style=flat&logo=C&color=27272A)
+![](https://img.shields.io/badge/Crystal-informational?style=flat&logo=Crystal&color=27272A)
 ![](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue.js&color=27272A)
 ![](https://img.shields.io/badge/Ruby_On_Rails-informational?style=flat&logo=rubyonrails&logoColor=CC0000&color=27272A)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&color=27272A)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&color=27272A)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&color=27272A)
 ![](https://img.shields.io/badge/Postgresql-informational?style=flat&logo=postgresql&color=27272A)
-![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&color=27272A)
 ![](https://img.shields.io/badge/Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=06B6D4&color=27272A)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&color=27272A)
-![](https://img.shields.io/badge/Maizzle-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABmJLR0QA/wD/AP+gvaeTAAADwklEQVRogdXZWWgdVRzH8U8bbWobtBIbXAqK1qWmuGBFWhXBB0WKKBbUFwXBBRRFfKr0SfBBEREflLpAQWssbhUFi4K4UNCU+mDd6Iu0anApaGuJVk1yfTg3zDlzk9zp5M7c5AsX7sw5/zO///zP8j9neswfBtGHg90W0odncE8J2/UYx3/Y0ElRZdiKRvN3wVHYXY+/I9t3Oy+tOHdFQvYJ0SnCBvwb2TbwUAX6CnEuRpsixnBlQbsbtTrxE5ZUoLEtx2JXJOSxgnZX44jUiQZur0BjIR6JRPyGpQVsBvGHVieGsbAamTOzRphlJoVsKmBzsjCG8k5MYG0lKtvQi68jIYewrI3NYnym1YkGXq1MaRsezwl5ooDNS6Z24h+cWY3MmVkrzE6xmFVtbDaZ2okGnqpM6Qwswd6ckOE2NjcLY2ByQhiPbA/ipKrEzsTTWt/oTAvYGtkacwhv52wfrlLsdFwlfZuTv7OmqX8GfpEtlLfhcGQ3oguLXx++1+rEl9PUXyad1R4UxkJse3e1kqdms1YnGsKCmGcxPonqPI8V0sRwL46pXHWOa2SDtYHvov+X5ur24K2o/AMhjXlO+gJuqUN4zPHYHwl4H+/I5v/eqO5CbInq7sEJwhiKk8MvsKAe+RkvRAJGhYVrnywyk/Tk6u7Hac2y2LkGrq1Bd0K+S23EItnM9XmzXj92RPVGsLJZdo40H/u4HukZ+S61R+jrK6J7B/Akfo/u/YjzonbiXWMDV9QjPyPuJuNY17y/PCcs/n2D06M2VklTmffqEB5znbRLbc6Vf6rViS1CFGO2ReUTuKQ6ya2cKGw3JwX8rDU9PwWv4FsMCSt+ntXSLOCNivROy8vSN31ryXZel3bNwY6oK8gNUifK9ulBaTS2dURdQZbj1+jhh6UD92h4UxqN8zshsCj59Pr+ku1cKJ0ohjqiriB3Sp3YqfxpxvaonTHpmlIpZ+PP6OGjwmpchoul0djaCYFFWIqvpNF4YBbtxd1zTDiBrJwFeE3qxA7ls9KLpNGobaZ6VOrECAZm0V48U00IjtVCPj2/bBZtrZZGo9acql84MNslpOuzYUga3aKn8XOKldIMd2d35ZQnfyhxU3fllGMAf0m3t5WdjFT5veE+HBddPyt0s3lFr+wUsSFEpr+rikpyh3RsvNhdOeXZLXVkql3inGed1IkDajj+rGKw35u73m4eDvIBrZ+V13dVUUk2Sp04otgn6TnHsNSRD+t6cKfHyA+564863H5tnCr7GDqbbfGcYBEuFw60a+N/2B2ME2moLRoAAAAASUVORK5CYII=&color=27272A)
 ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&color=27272A)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=1572B6&color=27272A)
 ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=CC6699&color=27272A)
