@@ -65,7 +65,7 @@ Want to learn more? [Check out my website](https://juls07.dev)
 
 # My Skills
 ![](https://img.shields.io/badge/Rust-informational?style=flat&logo=Rust&color=27272A)
-![](https://img.shields.io/badge/Rust-informational?style=flat&logo=C&color=27272A)
+![](https://img.shields.io/badge/C-informational?style=flat&logo=C&color=27272A)
 ![](https://img.shields.io/badge/Crystal-informational?style=flat&logo=Crystal&color=27272A)
 ![](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue.js&color=27272A)
 ![](https://img.shields.io/badge/Ruby_On_Rails-informational?style=flat&logo=rubyonrails&logoColor=CC0000&color=27272A)
