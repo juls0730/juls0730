@@ -20,8 +20,8 @@ Want to learn more? [Check out my website](https://juls07.dev)
 <!-- Repos -->
 # My Favorite Repos
 
-<a href="https://github.com/juls0730/juls07.dev-v2">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=juls0730&repo=juls07.dev-v2&title_color=fff&text_color=fafafa&icon_color=4AB197&bg_color=191819&hide_border=true" />
+<a href="https://github.com/juls0730/juls07.dev">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=juls0730&repo=juls07.dev&title_color=fff&text_color=fafafa&icon_color=4AB197&bg_color=191819&hide_border=true" />
 </a>
 
 <br />
