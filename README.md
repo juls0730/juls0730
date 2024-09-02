@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/juls0730?label=Follow&style=social)](https://github.com/juls07/?tab=follow)
 [![Email](https://img.shields.io/badge/juls07@juls07.dev-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:juls07@juls07.dev)](mailto:juls07@juls07.dev)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/jule4055_)
+[![Twitter Badge](https://img.shields.io/twitter/follow/julie4055_)](https://twitter.com/jule4055_)
 
 Hey, I'm juls07, a self-taught software developer with over 6 years of experience. I'm 16 and have been doing web development a large part of that, but recently, I've fallen in love with low-level development using C and Rust. I'm always eager to learn and improve my skills.
 
