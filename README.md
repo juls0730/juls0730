@@ -10,11 +10,11 @@ Want to learn more? [Check out my website](https://juls07.dev)
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Idea Overflow: The Struggle to Finish What We Start](https://juls07.dev/blog/idea-overflow)
 - [The Magic of Docker Compose: Transforming Project Setups](https://juls07.dev/blog/magic-of-docker-compose)
 - [My 100DaysOfCode Challenge](https://juls07.dev/blog/100daysofcode-challenge)
 - [Rebuilding my personal website!](https://juls07.dev/blog/portfolio-site-rebuild)
 - [How I made my site fast](https://juls07.dev/blog/how-i-made-my-site-fast)
-- [What I&#39;ve been doing](https://juls07.dev/blog/what-ive-been-doing)
 <!-- BLOG-POST-LIST:END --> 
 
 <!-- Repos -->
