@@ -64,6 +64,7 @@ Want to learn more? [Check out my website](https://juls07.dev)
 </a>
 
 # My Skills
+![](https://img.shields.io/badge/Go-informational?style=flat&logo=Go&color=27272A)
 ![](https://img.shields.io/badge/Rust-informational?style=flat&logo=Rust&color=27272A)
 ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&color=27272A)
 ![](https://img.shields.io/badge/Crystal-informational?style=flat&logo=Crystal&color=27272A)
@@ -73,6 +74,7 @@ Want to learn more? [Check out my website](https://juls07.dev)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&color=27272A)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&color=27272A)
 ![](https://img.shields.io/badge/Postgresql-informational?style=flat&logo=postgresql&color=27272A)
+![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&color=27272A)
 ![](https://img.shields.io/badge/Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=06B6D4&color=27272A)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&color=27272A)
 ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&color=27272A)
