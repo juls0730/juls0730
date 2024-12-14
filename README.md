@@ -8,6 +8,10 @@ Hey, I'm juls07, a self-taught software developer with over 6 years of experienc
 
 Want to learn more? [Check out my website](https://juls07.dev)
 
+Like what I do? Support me:
+
+XMR: `471knwRe8KXYqYW2UhdkN2YBKMwJjQR4BLAAZ4S4bdq3VfKjoJqXmG7BU9GJNQLzTgZiiXNbF1QZeRrMJ6nbJjQHA8B4F4N`
+
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Idea Overflow: The Struggle to Finish What We Start](https://juls07.dev/blog/idea-overflow)
