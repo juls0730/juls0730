@@ -10,7 +10,7 @@ Want to learn more? [Check out my website](https://juls07.dev)
 
 Like what I do? Support me:
 
-XMR: `471knwRe8KXYqYW2UhdkN2YBKMwJjQR4BLAAZ4S4bdq3VfKjoJqXmG7BU9GJNQLzTgZiiXNbF1QZeRrMJ6nbJjQHA8B4F4N`
+XMR: `42p6XQcEuEeLfah2saU57TDw8QtSuATib4hHVSMM2csjBkamDrJmAbWZDxPmNDuStPbzCxjpfypqQZdBdsMNRymv5fbge7J`
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
