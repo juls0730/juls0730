@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/juls07@juls07.dev-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:juls07@juls07.dev)](mailto:juls07@juls07.dev)
 [![Twitter Badge](https://img.shields.io/twitter/follow/julie4055_)](https://twitter.com/jule4055_)
 
-Hey, I'm juls07, a self-taught software developer with over 6 years of experience. I'm 16 and have been doing web development a large part of that, but recently, I've fallen in love with low-level development using C and Rust. I'm always eager to learn and improve my skills.
+Hey, I'm juls07, though, you'll find me under many aliases, a self-taught software developer with over 6 years of experience. I'm 16 and have been doing web development a large part of that, but recently, I've fallen in love with low-level development using C and Rust. I'm always eager to learn and improve my skills.
 
 Want to learn more? [Check out my website](https://juls07.dev)
 
