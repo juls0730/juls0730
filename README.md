@@ -14,11 +14,11 @@ XMR: `42p6XQcEuEeLfah2saU57TDw8QtSuATib4hHVSMM2csjBkamDrJmAbWZDxPmNDuStPbzCxjpfy
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Crystal: A Disappointing Story of Hope](https://juls07.dev/blog/crystal-a-disappointing-story-of-hope)
 - [Idea Overflow: The Struggle to Finish What We Start](https://juls07.dev/blog/idea-overflow)
 - [The Magic of Docker Compose: Transforming Project Setups](https://juls07.dev/blog/magic-of-docker-compose)
 - [My 100DaysOfCode Challenge](https://juls07.dev/blog/100daysofcode-challenge)
 - [Rebuilding my personal website!](https://juls07.dev/blog/portfolio-site-rebuild)
-- [How I made my site fast](https://juls07.dev/blog/how-i-made-my-site-fast)
 <!-- BLOG-POST-LIST:END --> 
 
 <!-- Repos -->
