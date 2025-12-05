@@ -25,31 +25,31 @@ XMR: `42p6XQcEuEeLfah2saU57TDw8QtSuATib4hHVSMM2csjBkamDrJmAbWZDxPmNDuStPbzCxjpfy
 # My Favorite Repos
 
 <a href="https://github.com/juls0730/juls07.dev">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=juls0730&repo=juls07.dev&title_color=fff&text_color=fafafa&icon_color=4AB197&bg_color=191819&hide_border=true" />
+  <img align="center" style="margin:0.5rem" src="https://stats.juls07.dev/api/pin/?username=juls0730&repo=juls07.dev&title_color=fff&text_color=fafafa&icon_color=4AB197&bg_color=191819&hide_border=true" />
 </a>
 
 <br />
 
 <a href="https://github.com/juls0730/zqdgr">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=juls0730&repo=zqdgr&title_color=fff&text_color=fafafa&icon_color=4AB197&bg_color=191819&hide_border=true" />
+  <img align="center" style="margin:0.5rem" src="https://stats.juls07.dev/api/pin/?username=juls0730&repo=zqdgr&title_color=fff&text_color=fafafa&icon_color=4AB197&bg_color=191819&hide_border=true" />
 </a>
 
 <br />
 
 <a href="https://github.com/juls0730/filething">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=juls0730&repo=filething&title_color=fff&text_color=fafafa&icon_color=4AB197&bg_color=191819&hide_border=true" />
+  <img align="center" style="margin:0.5rem" src="https://stats.juls07.dev/api/pin/?username=juls0730&repo=filething&title_color=fff&text_color=fafafa&icon_color=4AB197&bg_color=191819&hide_border=true" />
 </a>
 
 <br />
 
 <a href="https://github.com/juls0730/passport">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=juls0730&repo=passport&title_color=fff&text_color=fafafa&icon_color=4AB197&bg_color=191819&hide_border=true" />
+  <img align="center" style="margin:0.5rem" src="https://stats.juls07.dev/api/pin/?username=juls0730&repo=passport&title_color=fff&text_color=fafafa&icon_color=4AB197&bg_color=191819&hide_border=true" />
 </a>
 
 <br />
 
 <a href="https://github.com/juls0730/CappuccinOS">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=juls0730&repo=CappuccinOS&title_color=fff&text_color=fafafa&icon_color=4AB197&bg_color=191819&hide_border=true" />
+  <img align="center" style="margin:0.5rem" src="https://stats.juls07.dev/api/pin/?username=juls0730&repo=CappuccinOS&title_color=fff&text_color=fafafa&icon_color=4AB197&bg_color=191819&hide_border=true" />
 </a>
 
 
@@ -58,13 +58,13 @@ XMR: `42p6XQcEuEeLfah2saU57TDw8QtSuATib4hHVSMM2csjBkamDrJmAbWZDxPmNDuStPbzCxjpfy
 
 # Github Stats
 <a href="https://github.com/juls0730">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juls0730&hide=html,css&title_color=fff&text_color=fafafa&icon_color=4AB197&bg_color=191819&exclude_repo=100DaysOfCode&hide_border=true" />
+  <img align="center" style="margin:0.5rem" src="https://stats.juls07.dev/api/top-langs/?username=juls0730&hide=html,css&title_color=fff&text_color=fafafa&icon_color=4AB197&bg_color=191819&exclude_repo=100DaysOfCode&hide_border=true" />
 </a>
 
 <br/>
 
 <a href="https://github.com/juls0730">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=juls0730&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=fafafa&icon_color=4AB197&bg_color=191819&ring_color=be123c&hide_border=true" alt="juls0730's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://stats.juls07.dev/api?username=juls0730&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=fafafa&icon_color=4AB197&bg_color=191819&ring_color=be123c&hide_border=true" alt="juls0730's GitHub Stats" />
 </a>
 
 # My Skills
