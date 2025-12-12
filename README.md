@@ -1,87 +1,43 @@
 [![juls07's GitHub Banner](./assets/GithhubHeader-v2.png)](https://juls07.dev)
 
-[![GitHub followers](https://img.shields.io/github/followers/juls0730?label=Follow&style=social)](https://github.com/juls07/?tab=follow)
-[![Email](https://img.shields.io/badge/juls07@juls07.dev-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:juls07@juls07.dev)](mailto:juls07@juls07.dev)
-[![Twitter Badge](https://img.shields.io/twitter/follow/julie4055_)](https://twitter.com/jule4055_)
+## Hey, I'm Juls07 :wave:
 
-Hey, I'm juls07, though, you'll find me under many aliases, a self-taught software developer with over 6 years of experience. I'm 17 and have been doing web development a large part of that, but recently, I've fallen in love with low-level development using C and Rust. I'm always eager to learn and improve my skills.
+<p align="center">
+  <a href="https://juls07.dev">Website</a> •
+  <a href="https://twitter.com/julie4055_">Twitter</a> •
+  <a href="mailto:juls07@juls07.dev">Email</a>
+</p>
 
-Want to learn more? [Check out my website](https://juls07.dev)
+I'm a self-taught software developer and technical writer passionate about building useful things and learning new things.
 
-Like what I do? Support me:
+### 📝 Recent Blog Posts
 
-XMR: `42p6XQcEuEeLfah2saU57TDw8QtSuATib4hHVSMM2csjBkamDrJmAbWZDxPmNDuStPbzCxjpfypqQZdBdsMNRymv5fbge7J`
-
-# Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Crystal: A Disappointing Story of Hope](https://juls07.dev/blog/crystal-a-disappointing-story-of-hope)
 - [Idea Overflow: The Struggle to Finish What We Start](https://juls07.dev/blog/idea-overflow)
 - [The Magic of Docker Compose: Transforming Project Setups](https://juls07.dev/blog/magic-of-docker-compose)
 - [My 100DaysOfCode Challenge](https://juls07.dev/blog/100daysofcode-challenge)
 - [Rebuilding my personal website!](https://juls07.dev/blog/portfolio-site-rebuild)
-<!-- BLOG-POST-LIST:END --> 
+<!-- BLOG-POST-LIST:END -->
 
-<!-- Repos -->
-# My Favorite Repos
+---
 
-<a href="https://github.com/juls0730/juls07.dev">
-  <img align="center" style="margin:0.5rem" src="https://stats.juls07.dev/api/pin/?username=juls0730&repo=juls07.dev&title_color=fff&text_color=fafafa&icon_color=4AB197&bg_color=191819&hide_border=true" />
-</a>
+### 🛠️ Technologies & Tools
 
-<br />
+![Go](https://img.shields.io/badge/Go-informational?style=flat&logo=Go&color=27272A)
+![Rust](https://img.shields.io/badge/Rust-informational?style=flat&logo=Rust&color=27272A)
+![C](https://img.shields.io/badge/C-informational?style=flat&logo=C&color=27272A)
+![Vue](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue.js&color=27272A)
+![React](https://img.shields.io/badge/React-informational?style=flat&logo=react&color=27272A)
+![Javascript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&color=27272A)
+![Typescript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&color=27272A)
+![Postgresql](https://img.shields.io/badge/Postgresql-informational?style=flat&logo=postgresql&color=27272A)
+![SQLite](https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&color=27272A)
+![Tailwind](https://img.shields.io/badge/Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=06B6D4&color=27272A)
+![PHP](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&color=27272A)
+![CSS](https://img.shields.io/badge/CSS-informational?style=flat&logo=css&logoColor=663399&color=27272A)
 
-<a href="https://github.com/juls0730/zqdgr">
-  <img align="center" style="margin:0.5rem" src="https://stats.juls07.dev/api/pin/?username=juls0730&repo=zqdgr&title_color=fff&text_color=fafafa&icon_color=4AB197&bg_color=191819&hide_border=true" />
-</a>
-
-<br />
-
-<a href="https://github.com/juls0730/filething">
-  <img align="center" style="margin:0.5rem" src="https://stats.juls07.dev/api/pin/?username=juls0730&repo=filething&title_color=fff&text_color=fafafa&icon_color=4AB197&bg_color=191819&hide_border=true" />
-</a>
-
-<br />
-
-<a href="https://github.com/juls0730/passport">
-  <img align="center" style="margin:0.5rem" src="https://stats.juls07.dev/api/pin/?username=juls0730&repo=passport&title_color=fff&text_color=fafafa&icon_color=4AB197&bg_color=191819&hide_border=true" />
-</a>
-
-<br />
-
-<a href="https://github.com/juls0730/CappuccinOS">
-  <img align="center" style="margin:0.5rem" src="https://stats.juls07.dev/api/pin/?username=juls0730&repo=CappuccinOS&title_color=fff&text_color=fafafa&icon_color=4AB197&bg_color=191819&hide_border=true" />
-</a>
-
-
-
-<!-- Stats -->
-
-# Github Stats
-<a href="https://github.com/juls0730">
-  <img align="center" style="margin:0.5rem" src="https://stats.juls07.dev/api/top-langs/?username=juls0730&hide=html,css&title_color=fff&text_color=fafafa&icon_color=4AB197&bg_color=191819&exclude_repo=100DaysOfCode&hide_border=true" />
-</a>
-
-<br/>
-
-<a href="https://github.com/juls0730">
-  <img align="center" style="margin:0.5rem" src="https://stats.juls07.dev/api?username=juls0730&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=fafafa&icon_color=4AB197&bg_color=191819&ring_color=be123c&hide_border=true" alt="juls0730's GitHub Stats" />
-</a>
-
-# My Skills
-![](https://img.shields.io/badge/Go-informational?style=flat&logo=Go&color=27272A)
-![](https://img.shields.io/badge/Rust-informational?style=flat&logo=Rust&color=27272A)
-![](https://img.shields.io/badge/C-informational?style=flat&logo=C&color=27272A)
-![](https://img.shields.io/badge/Crystal-informational?style=flat&logo=Crystal&color=27272A)
-![](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue.js&color=27272A)
-![](https://img.shields.io/badge/Ruby_On_Rails-informational?style=flat&logo=rubyonrails&logoColor=CC0000&color=27272A)
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react&color=27272A)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&color=27272A)
-![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&color=27272A)
-![](https://img.shields.io/badge/Postgresql-informational?style=flat&logo=postgresql&color=27272A)
-![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&color=27272A)
-![](https://img.shields.io/badge/Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=06B6D4&color=27272A)
-![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&color=27272A)
-![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&color=27272A)
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=1572B6&color=27272A)
-![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=CC6699&color=27272A)
-![](https://img.shields.io/badge/GIMP-informational?style=flat&logo=Gimp&color=27272A)
+If you like what I do and want to support me:
+```
+XMR: 42p6XQcEuEeLfah2saU57TDw8QtSuATib4hHVSMM2csjBkamDrJmAbWZDxPmNDuStPbzCxjpfypqQZdBdsMNRymv5fbge7J
+```
